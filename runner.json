@@ -1,0 +1,13 @@
+{
+    "zksrpc": "https://mainnet.era.zksync.io",
+    "ethrpc": "https://rpc.ankr.com/eth",
+    "bscrpc": "https://rpc.ankr.com/bsc",
+    "opbnb": "https://1rpc.io/opbnb",
+    "sepolia": "https://1rpc.io/sepolia",
+    "proxy": "",
+    "yescaptchaKEY": "",
+    "capsolverKEY": "",
+    "maxGasPrice": 50,
+    "minInterval": 10,
+    "maxInterval": 120
+}
